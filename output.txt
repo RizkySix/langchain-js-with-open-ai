@@ -1,0 +1,26 @@
+{
+    pageContent: 'Pada zaman dahulu, di sebuah kepulauan indah yang dikelilingi oleh lautan biru, terdapat sebuah gunung yang megah bernama Krakatau. Gunung ini terkenal karena kekuatannya yang luar biasa, tetapi juga memiliki sifat yang anggun dan mempesona.\r\n' +
+      '\r\n' +
+      'Krakatau adalah rumah bagi banyak makhluk mitologis yang hidup dalam harmoni di sekitarnya. Di puncak gunung yang menjulang tinggi, terdapat seekor naga api yang bernama Surya. Surya adalah penjaga utama Gunung Krakatau dan selalu menjaga keselamatan pulau itu.\r\n' +
+      '\r\n' +
+      'Selain Surya, ada juga seekor burung merak yang ceria bernama Maya. Maya adalah penjaga keindahan gunung dan sering kali terbang di sekitar Krakatau untuk menciptakan keindahan dengan sayap-sayapnya yang berwarna indah.\r\n' +
+      '\r\n' +
+      'Di lereng gunung, hiduplah seekor kura-kura besar yang bijaksana bernama Tirta. Tirta adalah penjaga kebijaksanaan dan selalu memberikan nasihat yang bijak kepada makhluk-makhluk di sekitarnya.',
+    metadata: { source: 'krakatau.txt', loc: [Object] }
+  },
+
+
+
+  {
+    pageContent: 'Pada zaman dahulu, di sebuah kepulauan indah yang dikelilingi oleh lautan biru, terdapat sebuah gunung yang megah bernama Krakatau. Gunung ini terkenal karena kekuatannya yang luar biasa, tetapi juga memiliki sifat yang anggun dan mempesona.',
+    metadata: { source: 'krakatau.txt', loc: [Object] }
+  },
+
+
+  {
+    pageContent: 'Pada zaman dahulu, di sebuah kepulauan indah yang dikelilingi oleh lautan biru, terdapat sebuah gunung yang megah bernama Krakatau. Gunung ini terkenal karena kekuatannya yang luar biasa, tetapi juga memiliki sifat yang anggun dan mempesona.\r\n' +
+      '\r\n' +
+      'Krakatau adalah rumah bagi banyak makhluk mitologis yang hidup dalam harmoni di sekitarnya. Di puncak gunung yang menjulang tinggi, terdapat seekor naga api yang bernama Surya. Surya adalah penjaga utama Gunung Krakatau dan selalu menjaga keselamatan pulau itu.',
+    metadata: { source: 'krakatau.txt', loc: [Object] }
+  },
+
