@@ -1,26 +1,36 @@
-{
-    pageContent: 'Pada zaman dahulu, di sebuah kepulauan indah yang dikelilingi oleh lautan biru, terdapat sebuah gunung yang megah bernama Krakatau. Gunung ini terkenal karena kekuatannya yang luar biasa, tetapi juga memiliki sifat yang anggun dan mempesona.\r\n' +
-      '\r\n' +
-      'Krakatau adalah rumah bagi banyak makhluk mitologis yang hidup dalam harmoni di sekitarnya. Di puncak gunung yang menjulang tinggi, terdapat seekor naga api yang bernama Surya. Surya adalah penjaga utama Gunung Krakatau dan selalu menjaga keselamatan pulau itu.\r\n' +
-      '\r\n' +
-      'Selain Surya, ada juga seekor burung merak yang ceria bernama Maya. Maya adalah penjaga keindahan gunung dan sering kali terbang di sekitar Krakatau untuk menciptakan keindahan dengan sayap-sayapnya yang berwarna indah.\r\n' +
-      '\r\n' +
-      'Di lereng gunung, hiduplah seekor kura-kura besar yang bijaksana bernama Tirta. Tirta adalah penjaga kebijaksanaan dan selalu memberikan nasihat yang bijak kepada makhluk-makhluk di sekitarnya.',
-    metadata: { source: 'krakatau.txt', loc: [Object] }
+AIMessage {
+  lc_serializable: true,
+  lc_kwargs: {
+    content: 'What are the technical requirements for using Laravel?',
+    additional_kwargs: { function_call: undefined, tool_calls: undefined }
   },
+  lc_namespace: [ 'langchain_core', 'messages' ],
+  content: 'What are the technical requirements for using Laravel?',
+  name: undefined,
+  additional_kwargs: { function_call: undefined, tool_calls: undefined }
+}
 
-
-
-  {
-    pageContent: 'Pada zaman dahulu, di sebuah kepulauan indah yang dikelilingi oleh lautan biru, terdapat sebuah gunung yang megah bernama Krakatau. Gunung ini terkenal karena kekuatannya yang luar biasa, tetapi juga memiliki sifat yang anggun dan mempesona.',
-    metadata: { source: 'krakatau.txt', loc: [Object] }
-  },
-
-
-  {
-    pageContent: 'Pada zaman dahulu, di sebuah kepulauan indah yang dikelilingi oleh lautan biru, terdapat sebuah gunung yang megah bernama Krakatau. Gunung ini terkenal karena kekuatannya yang luar biasa, tetapi juga memiliki sifat yang anggun dan mempesona.\r\n' +
+[
+  Document {
+    pageContent: 'In ancient times, in a beautiful archipelago surrounded by the blue ocean, there was a magnificent mountain named Krakatau. This mountain was famous for its extraordinary power, but it also possessed grace and charm.\r\n' +
       '\r\n' +
-      'Krakatau adalah rumah bagi banyak makhluk mitologis yang hidup dalam harmoni di sekitarnya. Di puncak gunung yang menjulang tinggi, terdapat seekor naga api yang bernama Surya. Surya adalah penjaga utama Gunung Krakatau dan selalu menjaga keselamatan pulau itu.',
-    metadata: { source: 'krakatau.txt', loc: [Object] }
+      'Krakatau was home to many mythological creatures that lived in harmony around it. At the towering peak of the mountain, there was a fire-breathing dragon named Surya. Surya was the main guardian of Mount Krakatau and always ensured the safety of the island.',
+    metadata: { loc: [Object], source: 'krakatau.txt' }
   },
-
+  Document {
+    pageContent: 'To this day, Mount Krakatau remains a beautiful and powerful place, inhabited by the fire-breathing dragon Surya, the peacock Maya, and the turtle Tirta. They continue to safeguard the safety and beauty of the island, reminding us of the power of nature and the importance of preserving this universe.\r\n' +
+      '\r\n' +
+      'After the battle against Raja Gelombang, Mount Krakatau returned to a peaceful state. Surya, Maya, and Tirta felt relieved that they had successfully protected the island. They returned to their duties as the main guardians of the mountain.',
+    metadata: { loc: [Object], source: 'krakatau.txt' }
+  },
+  Document {
+    pageContent: 'From that day forward, Mount Krakatau served as a reminder of the strength and resilience of nature, as well as the importance of cooperation and unity in the face of challenges. The island flourished once again, and its guardians, Surya, Maya, and Tirta, continued to protect it with their unwavering commitment.\r\n' +
+      '\r\n' +
+      'And so, the legend of Mount Krakatau and its guardians lived on, inspiring generations to appreciate and protect the beauty and wonders of the natural world.',
+    metadata: { loc: [Object], source: 'krakatau.txt' }
+  },
+  Document {
+    pageContent: 'Since then, Surya, Maya, and Tirta became stronger and wiser guardians. Together, they continued to protect Mount Krakatau and the island from all dangers. The wonders and beauty of Krakatau remained, reminding all creatures around it of the importance of cooperation and goodness.',
+    metadata: { loc: [Object], source: 'krakatau.txt' }
+  }
+]

@@ -19,8 +19,8 @@ const client = createClient(supabaseProjectUrl, supabaseApiKey)
 
 const vectors = new SupabaseVectorStore(embeddings, {
     client: client,
-    tableName: 'documents',
-    queryName: 'make_documents'
+    tableName: 'mentality',
+    queryName: 'match_mentality'
   })
   
 const retriever = vectors.asRetriever()
