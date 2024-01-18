@@ -17,12 +17,14 @@ const embeddings = new OpenAIEmbeddings({
 
 const client = createClient(supabaseProjectUrl, supabaseApiKey)
 
+//retriver ke supabase
+
 const vectors = new SupabaseVectorStore(embeddings, {
     client: client,
     tableName: 'mentality',
     queryName: 'match_mentality'
   })
   
-const retriever = vectors.asRetriever()
+const retriever = vectors.asRetriever(/* 10 */)
 
 export {retriever}
